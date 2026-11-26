@@ -1,0 +1,28 @@
+﻿Kode,Komponen,Bahan,Finishing/warna,Warna_hex,"Status (B=sumber, U=usulan)",Dasar
+lantai,Lantai,"Keramik/porselen 60×60 cm, doff","Abu terang, nat abu tua",#C9CDD0,B+U,"BoQ A-03 ""lantai keramik/porselen 120 m²"" (jenis = sumber; ukuran & warna = usulan)"
+dinding,Dinding,"Pasangan bata + plester, cat tembok interior emulsi",Putih tulang,#EEEBE3,B+U,"BoQ A-04 ""pengecatan dinding 176 m²"" (cat = sumber; warna = usulan)"
+plafon,Plafon,"Gypsum board 9 mm, rangka hollow galvanis",Cat putih,#F7F7F3,U,Tidak ada di sumber (tinggi ruang 4 m saja). Perlu keputusan: plafon gantung atau struktur terbuka
+meja_top,Meja – permukaan,HPL/melamin ±25 mm,Motif kayu maple terang,#D9BF99,B+U,"Device: ""Meja AIO HPL/melamin ±25mm + metal"" (bahan = sumber; motif = usulan)"
+meja_rangka,Meja – rangka,"Besi hollow 40×40, powder coat",Hitam doff,#2B2F33,B+U,"Device: ""... + metal"" (profil & finishing = usulan)"
+kursi_dudukan,Kursi – dudukan & sandaran,Busa berlapis kain/mesh,Hitam-abu,#3A3F45,B+U,"Device: ""Kursi kerja adjustable, sandaran dan roda"" (lapisan = usulan)"
+kursi_rangka,Kursi – kaki/dasar,"Dasar 5 kaki nylon + roda, gas lift",Hitam / krom,#1F2226,B+U,"Device: ""adjustable ... roda"" (bahan = usulan)"
+aio_body,AIO – bodi,Plastik ABS,Putih-abu,#E6E8EA,B,Device: Lenovo IdeaCentre AIO 3 (model awal belum diverifikasi)
+aio_layar,AIO – layar,Panel IPS berlapis kaca,Hitam gloss,#0B0F14,B,Device: Lenovo IdeaCentre AIO 3
+km,Keyboard + mouse,"Plastik ABS, kabel USB",Hitam,#1E2125,B,Device: Logitech MK120 (K120 + B100)
+papan_kaca,Papan tulis kaca,"Kaca tempered ±8 mm, bingkai aluminium",Putih/frosted,#E9F0F3,B+U,"Device/BoQ I-08: ""Glassboard 2,40×1,20"" (ketebalan & bingkai = usulan)"
+pintu,Pintu 2 daun,"Rangka kayu + panel (daun 0,90 m)",Cat/HPL walnut,#7B5A3C,U,"BoQ A-06 hanya menyebut ""pintu dua daun""; bahan belum ditetapkan"
+jendela_rangka,Jendela – rangka,Aluminium,Powder coat abu tua,#5C6670,U,"BoQ A-05 ""jendela belakang"" tanpa bahan; usulan"
+jendela_kaca,Jendela – kaca,Kaca bening 5 mm,Bening,#A9D4E6,U,BoQ A-05; usulan
+ac,AC split,Plastik ABS,Putih,#F3F5F6,B,"Device: Daikin split ±1–1,5 PK (kapasitas HOLD-03)"
+apar,APAR & kabinet,Tabung baja + kabinet baja berkaca,Merah,#C0392B,U,BoQ S-01 / DB-06: APAR + kabinet dinding; jenis final oleh K3 (HOLD-08)
+server,Server tower,Baja,Hitam,#24272C,B,Device: Tower Xeon E-2436
+switch,Switch,Baja/aluminium,Abu perak,#8F989F,B,Device: TP-Link ES220GMP (audit port HOLD-05)
+ap,Access point,Plastik ABS,Putih,#F2F4F5,B,Device: TP-Link EAP110 Omada
+proyektor,Proyektor,Plastik ABS,Putih,#F1F2F0,B,Device: Epson CO-FH01
+cctv,CCTV,Plastik ABS,Putih,#F2F3F5,B,Device: EZVIZ C6N pan/tilt Wi-Fi
+monitor_cctv,Monitor CCTV,Panel LCD,Hitam,#101317,U,Register DB-08 / BoQ I-07: usulan di luar 134 baseline
+led,Lampu panel LED,Rangka aluminium + difuser opal,Putih hangat,#FFF4D2,U,BoQ M-02: jumlah TBD; 6 titik = ilustrasi render (HOLD-04)
+db,Panel DB,Boks besi,Abu muda,#9AA3AA,U,"BoQ M-03 / label ""DB-LAB?"" di drawio"
+bracket,Braket & penggantung,Baja hollow,Hitam,#2B2F33,U,Proyektor/CCTV/glassboard perlu pemasangan; kekuatan HOLD-06
+kabel,Kabel jaringan (skematik),UTP CAT6 dalam duct/cable tray,-,#187B85,B+U,BoQ M-04 (CAT6); rute di model hanya skematik
+orang,Figur skala manusia,-,-,#4C9AA5,-,"Pembantu skala, bukan bagian inventaris"
